@@ -26,8 +26,10 @@ This project provides an OCR (Optical Character Recognition) and document type c
 - `setup.txt`: Run command for the app
 
 ## Contributor
+## Contributor
 - **Akash Chawla**  
-  *Role*: Developer
+    *Role*: Developer  
+    Akash is responsible for designing and implementing the core functionalities of the project, including the OCR pipeline, document classification models, and the web interface. He has experience in Python, machine learning, and web development, and has contributed to both the backend and frontend aspects of this application. Akash also maintains the project repository and documentation.
 
 ## License
 This project is for educational and demonstration purposes.
